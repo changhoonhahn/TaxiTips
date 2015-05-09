@@ -40,4 +40,3 @@ except ZeroDivisionError:
     tipperc = 0.0
 
 print ',\t'.join([current_month, str(total_tip), str(total_revenue), str(tipperc)])
-
